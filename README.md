@@ -14,12 +14,6 @@ Documentation
 Dependencies
 ------------
 
-- [OpenGL](http://www.opengl.org/)
-- [GLFW](https://www.glfw.org)
-- [Boost](http://boost.org/)
-- C++11 compiler
-- [cmake](http://www.cmake.org/) 3.0 or newer
-- optional [Doxygen](http://www.doxygen.org/) to generate documentation
 
 
 Build
